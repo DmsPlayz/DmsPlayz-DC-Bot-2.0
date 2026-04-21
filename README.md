@@ -12,9 +12,9 @@ This is a **Multipurpose Discord Bot Fully In Node.js**
 
 Below is the full bot overview.
 
-| **Bot commands** | **How it works** |
-| **Auto guild** | **Automatic grab guild id** |
-| **Ticket** | **Advance Ticket System** |
+| Bot Commands | Details                                         |
+| ------------ | ----------------------------------------------- |
+| **Ticket**   | **Advance Ticket System With Database Support** |
 
 > [!CAUTION]
 > I will update the bot frequently with new commands & features.
