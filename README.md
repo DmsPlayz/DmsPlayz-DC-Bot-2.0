@@ -20,9 +20,9 @@ This is a **Multipurpose Discord Bot**. Fully open source for everyone to use in
 
 Below is the full bot overview.
 
-| Bot Commands | Details                                                  |
-| ------------ | -------------------------------------------------------- |
-| **Ticket**   | **Advance Ticket System With Database Support ( Soon )** |
+| Bot Commands | Details             |
+| ------------ | ------------------- |
+| **Ticket**   | **Adding ( Soon )** |
 
 > [!CAUTION]
 > I will update the bot frequently with new commands & features.
